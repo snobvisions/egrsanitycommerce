@@ -434,8 +434,8 @@ padding: 30px 65px;
   border-radius: 15px;
    background-color: #ebebeb;
 
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 300px;
   cursor: pointer;
   transition: .3s ease-in-out;
 }
@@ -451,8 +451,8 @@ padding: 30px 65px;
 .small-image{
   border-radius: 8px;
   background-color: #ebebeb;
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 60px;
   cursor: pointer;
 }
 
